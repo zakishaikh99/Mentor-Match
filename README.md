@@ -21,7 +21,8 @@ Mentor Match is a simple platform that connects mentors and mentees based on the
 ```bash
 git clone https://github.com/zakishaikh99/Mentor-Match.git
 cd mentor-match
-npm install
+npm install flask
+nmp connect MongoDB database
 npm run dev
 ```
 
