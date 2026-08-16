@@ -12,7 +12,7 @@ Mentor Match is a simple platform that connects mentors and mentees based on the
 
 ## Tech Stack
 
-* Frontend: Html
+* Frontend: Html,CSS
 * Backend: Python
 * Database: MongoDB
 
